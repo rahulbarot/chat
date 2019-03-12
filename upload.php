@@ -12,3 +12,5 @@ if(move_uploaded_file($_FILES['file']['tmp_name'],$location)){
 }else{
     echo 0;
 }
+echo "Hello Awesome";
+echo "Hello Awesome2";
