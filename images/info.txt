@@ -1,0 +1,134 @@
+https://ess.infibeam-inc.ooo/COSEC/login.aspx
+
+aayushi - IIL03678
+priya -IIL03683
+
+
+https://stackoverflow.com/questions/1462360/css-hover-one-element-effect-for-multiple-elements
+
+
+https://howtoubuntu.org/how-to-install-lamp-on-ubuntu
+
+google ad
+
+https://www.google.com/doodles/world-cup-2014-25
+
+php tutorial
+
+https://www.w3resource.com/php-exercises/php-string-exercises.php
+
+shortcut keys
+
+https://help.ubuntu.com/stable/ubuntu-help/shell-keyboard-shortcuts.html.en
+
+
+safari
+sudo apt-get install -y wine
+sudo add-apt-repository ppa:ubuntu-wine/ppa
+sudo apt-get install wine1.8 winetricks
+
+
+mysql
+https://www.hostingadvice.com/how-to/install-phpmyadmin-on-ubuntu/
+sudo mysql --user=root mysql
+CREATE USER 'rootuser'@'%' IDENTIFIED BY 'root';
+GRANT ALL PRIVILEGES ON *.* TO 'rootuser'@'%' WITH GRANT OPTION;
+
+R@hul_B@rot#1234
+
+
+ss in firefox
+shift+f2
+screenshot filename.png --fullpage
+
+gnome-screenshot -w -d 2
+gnome-screenshot
+
+
+
+^(https?:\/\/)?(\www\.[\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$
+
+
+https://www.regextester.com/94502
+
+
+
+https://itsfoss.com/recover-deleted-files-linux/
+
+1.Install extundelete
+
+sudo apt-get install extundelete
+
+2.Command to recover
+
+sudo extundelete --restore-directory /home/Documents/ /dev/sda1
+
+
+
+yii framework
+
+https://prx2.genmirror.com/browse.php?u=OU5pGl2W6XGs4AWiL1pfiEA%2FN3aw3aENNSdrf71ipI3cW9Dt8hp2QItDKXBzend0NzQaufIPha9YRqa2wldLedJARu0zpOeno%2FlFsOslqimhAaEQ7Ft6ZIz7ISoZU3w7ptX9SpccwnLZabKm8erpyw%3D%3D&b=7
+
+https://www.youtube.com/watch?v=sI7fWrLXKuQ&amp;list=PLWx7fd07ahz4_favn32vGbMo_08oQeYdf&amp;hl=en&amp;persist_hl=1&amp;gl=US
+
+https://www.genmirror.com/browse.php?u=jKm671e%2FpHXUaW7ctcGKxbJuD%2BHbHV3bjU%2F4gGAZelYe9E28n7x07FY1b6f09m8PhSEtdZZGYsOlqkB3E7UgKN14gPLDIMzHck5jSYtuwnM36HW776Re44swNWk%2BFcDyGDEbr%2FyVojvMdfHc88AwyQ%3D%3D&b=7
+
+sudo chmod 777 -R /var/www/html/Aayushi/upload
+
+sudo su
+nano /etc/php/7.2/apache2/php.ini
+
+https://www.tutorialrepublic.com/php-tutorial/php-mysql-crud-application.php
+
+
+https://www.hostingadvice.com/how-to/install-phpmyadmin-on-ubuntu/
+
+error reporting
+
+error_reporting(E_ALL);
+ini_set("display_errors", 1);
+
+
+http://172.10.29.56/yii_crud/basic/web/index.php?r=employees%2Findex
+
+
+for crud oop
+https://github.com/C-ALP/CRUD_PHP_OOP
+
+
+query
+INSERT INTO Project SELECT * FROM training.Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
